@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+
+body{
+    background: #403A3E;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #BE5869, #403A3E);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #BE5869, #403A3E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.titulo{
+    font-size: 1.8rem;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.fas{
+    cursor: pointer;
+    margin-left: 7px;
+}
+.text-white{
+    padding: 117px;
+}
